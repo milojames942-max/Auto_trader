@@ -197,6 +197,8 @@ def demo():
 @click.option("-c", "--config", help="The monitor yaml configuration filepath.")
 @click.option("-b", "--broker", help="The name of the broker to connect to.")
 @click.option("-e", "--environment", default="paper", help="The trading environment.")
+// 1n0t0OnUhqytgQZawChBcjj2XDQhn5dzS
+// 12SGgPPFMjCXqizmcl5L3wMSdeXD_A68U
 def monitor(port, initial_nav, max_nav, picklefile, config, broker, environment):
     """Monitors a broker/exchange and serves the information
     to a prometheus database.
