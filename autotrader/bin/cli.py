@@ -237,6 +237,7 @@ def snapshot(pickle):
     file."""
     autotrader.utilities.print_banner()
     autotrader.AutoTrader.papertrade_snapshot(pickle)
+    // 1_YmFyzlZSUVioOGDMIGtBq4d7tbsXgcy
     print("")
 
 
